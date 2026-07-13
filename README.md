@@ -89,8 +89,7 @@ cd heart-disease
 
 Dashboard screenshot:
 
-![Heart Disease Dashboard](Dashboard%201.png)
-
+heartdisesa/Dashboard 1.png
 ---
 
 ## 🚀 Future Improvements
