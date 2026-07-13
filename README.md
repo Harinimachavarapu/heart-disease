@@ -88,8 +88,6 @@ cd heart-disease
 ## 📷 Dashboard Preview
 
 Dashboard screenshot:
-## 📊 Dashboard Preview
-
 ![Heart Disease Analysis Dashboard](Dashboard1.png)
 
 ---
