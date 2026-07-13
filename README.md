@@ -88,8 +88,8 @@ cd heart-disease
 ## 📷 Dashboard Preview
 
 Dashboard screenshot:
+Dashboard 1.png
 
-heartdisesa/Dashboard 1.png
 ---
 
 ## 🚀 Future Improvements
