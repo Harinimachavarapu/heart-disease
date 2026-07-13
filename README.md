@@ -85,10 +85,9 @@ cd heart-disease
 
 ---
 
-## 📷 Dashboard Preview
+## 📸 Dashboard Preview
 
-Dashboard screenshot:
-<img width="100%" alt="Dashboard Preview" src="Dashboard 1.png">
+<img width="100%" alt="Dashboard Preview" src="heartdisesa/Dashboard 1.png">
 
 ---
 
